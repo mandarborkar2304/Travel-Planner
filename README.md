@@ -13,21 +13,6 @@ Travel Planner is a web-based application that helps users plan and manage their
 - **SQLite** – Database for storing travel data.
 - **Django Admin Panel** – Manage users and travel details.
 
-## Project Structure
-```
-Travel-Planner/
-│── manage.py                # Django project manager
-│── travel_planner/
-│   ├── settings.py          # Project settings
-│   ├── urls.py              # URL routing
-│   ├── wsgi.py              # WSGI configuration
-│── itineraries/
-│   ├── models.py            # Database models
-│   ├── views.py             # API views
-│   ├── serializers.py       # Data serialization
-│   ├── urls.py              # Itinerary-related endpoints
-```
-
 ## Getting Started
 ### Prerequisites
 Ensure you have the following installed:
